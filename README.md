@@ -19,13 +19,13 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [By Google](#by-google)
 - [Developer Tools](#developer-tools)
 - [Fun](#fun)
-- [Language & Translation](#language--translation)
-- [News & Weather](#news--weather)
+- [Language & Translation](#language, translation)
+- [News & Weather](#news, weather)
 - [Photos](#photos)
 - [Productivity](#productivity)
 - [Search Tools](#search-tools)
 - [Shopping](#shopping)
-- [Social & Communication](#social--communication)
+- [Social & Communication](#social, communication)
 - [Sports](#sports)
 
 ## Accessibility
@@ -68,7 +68,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Language & Translation
 *Learn languages and translate content while browsing*
 
-* [Mirlo](https://github.com/BoxcarsAI/mirlo) - Learn a language while you browse — replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
+* [Mirlo](https://github.com/BoxcarsAI/mirlo) - Learn a language while you browse: replaces words on pages with the language you're learning. On-device translation via Chrome's Translator API, no tracking.
 * [Read Frog](https://github.com/mengxi-ream/read-frog) - Open-source AI-powered language learning with bilingual translation, article analysis, and vocabulary tools. Supports 80+ languages.
 * [yunit](https://yunit.app) - A browser extension that picks unfamiliar words on web pages, shows translations inline as you read, and keeps the words you mark into a personal lexicon.
 
@@ -147,7 +147,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - Protects you from trackers as you surf the web.
 * [Pinterest Pin Stats](https://chromewebstore.google.com/detail/pinterest-pin-stats-sort/mcmkeopcpbfgjlakblglpcccpodbjkel) - Reveal Pinterest stats for each pin.
 * [LinkedCraft](https://linkedcraft.io) - Helps job seekers craft context-aware, engaging LinkedIn comments.
-* [Scrupp](https://scrupp.com/) - #1 Sales Navigator Scraper — exports 2,500 LinkedIn / Sales Navigator leads per search to CSV with verified work emails and direct phones. Free plan included.
+* [Scrupp](https://scrupp.com/) - #1 Sales Navigator Scraper: exports 2,500 LinkedIn / Sales Navigator leads per search to CSV with verified work emails and direct phones. Free plan included.
 
 ## Sports
 *Keep on track with your favorite sports club*

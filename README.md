@@ -96,6 +96,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online.
 * [Fauxbar](https://chrome.google.com/webstore/detail/fauxbar/hibkhcnpkakjniplpfblaoikiggkopka) - An alternative to Chrome's Omnibox.
 * [Ghostery](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij) - Protect your privacy by seeing who's tracking your web browsing with Ghostery.
+* [GradeSim](https://gradesim.uplbtools.me/) - UPLB grade calculator and GWA simulator for forecasting course grades and Latin honors targets. ([Source](https://github.com/uplbtools/gradesim))
 * [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize your Gmail labels as tabs.
 * [gTabs](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb) - AI-powered tab organizer with smart groups that learn your habits, 8 LLM providers including local Ollama, one-click undo, scheduled re-org, and duplicate finder.
 * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Saves your passwords and gives you secure access from every computer and mobile device
